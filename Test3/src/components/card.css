@@ -1,0 +1,25 @@
+
+svg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.fade-enter-active, .fade-leave-active{
+
+    transition: opacity .3s, transform .3s;
+
+}
+
+.fade-enter, .fade-leave-active{
+
+   opacity: 0;
+   
+   transform: translateY(2vh);
+}

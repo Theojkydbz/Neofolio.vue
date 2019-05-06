@@ -1,0 +1,21 @@
+.logo{
+    margin-top: 1rem;
+}
+
+h1{
+    margin-top: 2vh;
+    font-family: Avenir-Medium;
+    font-size: 2rem;
+    color: #2F3542;
+    letter-spacing: -0.03px;
+    text-align: center;
+}
+p{
+    margin-top: 15vh;
+    font-family: WorkSans-Light;
+    font-size: 1,2rem;
+    color: #818996;
+    letter-spacing: -0.03px;
+    text-align: center;
+
+}
